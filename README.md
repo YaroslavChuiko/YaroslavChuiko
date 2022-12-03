@@ -48,10 +48,10 @@
   <h2>Current Stats</h2>
   <p align="center">
     <a href="https://github.com/YaroslavChuiko">
-     <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=YaroslavChuiko&show_icons=true&theme=dark&count_private=true&hide_border=true&icon_color=ffd700&title_color=0057b8">
+     <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=YaroslavChuiko&show_icons=true&theme=dark&count_private=true&hide_border=true&text_color=ffffff&icon_color=ffd700&title_color=0057b8">
     </a>
     <a href="https://github.com/YaroslavChuiko">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavChuiko&layout=compact&theme=dark&langs_count=6&exclude_repo=YaroslavChuiko.github.io,Ucode-Uchat&hide_border=true&title_color=0057b8" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavChuiko&layout=compact&theme=dark&langs_count=6&exclude_repo=YaroslavChuiko.github.io,Ucode-Uchat&hide_border=true&text_color=ffffff&title_color=0057b8" />
     </a>
  </p>
 </div>
