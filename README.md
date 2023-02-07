@@ -39,7 +39,7 @@
 <div align="center">
   <h2>Connect with me</h2>
   <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-   <a href="https://steamcommunity.com/id/jarik__/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
+   <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </div>
 
 </br>
