@@ -53,12 +53,6 @@
     <a href="https://github.com/YaroslavChuiko">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavChuiko&layout=compact&theme=dark&langs_count=6&exclude_repo=YaroslavChuiko.github.io,Ucode-Uchat&hide_border=true&text_color=ffffff&title_color=0057b8" />
     </a>
- </p>
-  <p align="center">
-    <a href="https://github.com/YaroslavChuiko">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@YaroslavChuiko&theme=dark&hide_border=true&text_color=ffffff&title_color=0057b8" />
-    </a>
- </p>
 </div>
 
 </br>
