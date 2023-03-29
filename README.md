@@ -8,12 +8,14 @@
   <h2>I'm working with</h2>
   <h4>Frontend</h4>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javaScript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
   <img alt="gulp" src="https://img.shields.io/badge/-gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
   </br>
   <h4>Backend</h4>
@@ -21,7 +23,7 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" /> 
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" />
 </div>
 
 </br>
