@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>I'm working with</h2>
-  <h4>Frontend</h4>
+  <h4>Front End</h4>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javaScript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
@@ -18,7 +18,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
   <img alt="gulp" src="https://img.shields.io/badge/-gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
   </br>
-  <h4>Backend</h4>
+  <h4>Back End</h4>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -41,7 +41,7 @@
 <div align="center">
   <h2>Connect with me</h2>
   <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-   <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
+   <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </a>
 </div>
 
 </br>
@@ -55,10 +55,11 @@
     <a href="https://github.com/YaroslavChuiko">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavChuiko&layout=compact&theme=dark&langs_count=6&exclude_repo=YaroslavChuiko.github.io,Ucode-Uchat&hide_border=true&text_color=ffffff&title_color=0057b8" />
     </a>
+  </p>
 </div>
 
-</br>
+<!-- </br> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YaroslavChuiko&style=for-the-badge&color=blueviolet" />
-</div>
+</div> -->
