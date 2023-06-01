@@ -34,14 +34,16 @@
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-4479A1.svg?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 </br>
 
 <div align="center">
   <h2>Connect with me</h2>
+  <a href="https://www.linkedin.com/in/yaroslav-chuiko-113445257" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-   <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </a>
+  <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </a>
 </div>
 
 </br>
