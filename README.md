@@ -33,7 +33,10 @@
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6.svg?style=for-the-badge&logo=windows11&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-4479A1.svg?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="netlify" src="https://img.shields.io/badge/-netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img alt="heroku" src="https://img.shields.io/badge/-heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
