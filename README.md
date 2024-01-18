@@ -44,9 +44,9 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/yaroslav-chuiko-113445257" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/yaroslav-chuiko-113445257" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=flat-square&logo=steam&logoColor=white" /> </a>
 </p>
 
 ------------
