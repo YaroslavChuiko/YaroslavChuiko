@@ -11,8 +11,8 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javaScript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javaScript&logoColor=black" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC.svg?style=flat-square&logo=redux&logoColor=white" />
   <img alt="zustand" src="https://img.shields.io/badge/-Zustand-252b37.svg?style=flat-square&logo=react&logoColor=white" />
@@ -29,6 +29,9 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000.svg?style=flat-square&logo=express&logoColor=white" />
   <img alt="trpc" src="https://img.shields.io/badge/-tRPC-2596BE.svg?style=flat-square&logo=trpc&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000.svg?style=flat-square&logo=mongoose&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6.svg?style=flat-square&logo=windows11&logoColor=white" />
@@ -44,7 +47,7 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/yaroslav-chuiko-113445257" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yaroslav-chuiko-113445257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/Yaroslav_Chuiko" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4.svg?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://steamcommunity.com/profiles/76561198324173512/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000.svg?style=flat-square&logo=steam&logoColor=white" /> </a>
 </p>
